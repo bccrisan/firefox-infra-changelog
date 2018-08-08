@@ -1,0 +1,17 @@
+{
+  "HG_Hooks": "https://hg.mozilla.org/hgcustom/hghooks/",
+  "HG_Scripts": "https://hg.mozilla.org/hgcustom/hgscripts/",
+  "Version_Control_Tools": "https://hg.mozilla.org/hgcustom/version-control-tools/",
+  "HG_Templates": "https://hg.mozilla.org/hgcustom/hg_templates/",
+  "Mozilla_Build": "https://hg.mozilla.org/mozilla-build/",
+  "BuildAPI": "https://hg.mozilla.org/build/buildapi/",
+  "Braindump": "https://hg.mozilla.org/build/braindump/",
+  "Mozzharness": "https://hg.mozilla.org/build/mozharness/",
+  "Tooltool": "https://hg.mozilla.org/build/tooltool/",
+  "Slave_Health": "https://hg.mozilla.org/build/slave_health/",
+  "Puppet_Manifests": "https://hg.mozilla.org/build/puppet-manifests/",
+  "Cloud_Tools": "https://hg.mozilla.org/build/cloud-tools/",
+  "CI_Configuration": "https://hg.mozilla.org/build/ci-configuration/",
+  "CI_Admin": "https://hg.mozilla.org/build/ci-admin/",
+  "Nagios_Tools": "https://hg.mozilla.org/build/nagios-tools/"
+}
