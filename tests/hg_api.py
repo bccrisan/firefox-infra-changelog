@@ -33,8 +33,8 @@ def write_push():
 
 def handle_timestamps(timestamp, timezone):
     """
-    This function handles the timestamps so that all of the modifications to be traceable in time, in concordance to one
-    another and returns the date-time format.
+    This function handles the timestamps so that all of the modifications to be traceable in time, and converts the unix
+    timestamp to date-time format and returns it..
 
     Example :
         print(handle_timestamps("1499225169.0", "-43200"))
